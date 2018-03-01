@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://edutech.ninja/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "EduTech.Ninja"
+theme = "beautifulhugo"
